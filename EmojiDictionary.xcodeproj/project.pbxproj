@@ -12,6 +12,7 @@
 		2F2134EC208D326000E732F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F2134EA208D326000E732F6 /* Main.storyboard */; };
 		2F2134EE208D326200E732F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F2134ED208D326200E732F6 /* Assets.xcassets */; };
 		2F2134F1208D326200E732F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F2134EF208D326200E732F6 /* LaunchScreen.storyboard */; };
+		2F2134F9208D64EA00E732F6 /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F2134F8208D64EA00E732F6 /* DefinitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2F2134ED208D326200E732F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F2134F0208D326200E732F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F2134F2208D326200E732F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F2134F8208D64EA00E732F6 /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2F2134E6208D326000E732F6 /* AppDelegate.swift */,
 				2F2134E8208D326000E732F6 /* ViewController.swift */,
+				2F2134F8208D64EA00E732F6 /* DefinitionViewController.swift */,
 				2F2134EA208D326000E732F6 /* Main.storyboard */,
 				2F2134ED208D326200E732F6 /* Assets.xcassets */,
 				2F2134EF208D326200E732F6 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F2134E9208D326000E732F6 /* ViewController.swift in Sources */,
+				2F2134F9208D64EA00E732F6 /* DefinitionViewController.swift in Sources */,
 				2F2134E7208D326000E732F6 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
